@@ -11,6 +11,9 @@ h1{
 }
 hr{
   margin: 0;
+  background-color: white;
+  border-width: 2px;
+  border-color: white;
 }
 .container{
   height:300px;
